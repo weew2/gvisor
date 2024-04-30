@@ -1,4 +1,4 @@
-module gvisor.dev/gvisor
+module github.com/weew2/gvisor
 
 go 1.22.0
 
