@@ -1,4 +1,4 @@
-module gvisor.dev/gvisor
+module weew.gvisor.dev/gvisor
 
 go 1.22.0
 
